@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<HTML>
+    <HEAD>
+        <title>Typography in bootsrap</title>
+        <link rel="stylesheet" href=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+</script>
+    </HEAD>
+    <body>
+    <H1 class="DISPLAY-4">Typrogaphy in htmk</H1>
+    <h1>Abbrevation</h1>
+    <p>Codingal is an online class that teaches you how to code and it is fun</p>
+    <p><abbr title="Codingal"></abbr>cdg</p>
+    <h1>Block quote</h1>
+    <blockquote class="blockquote"></blockquote>
+    <h1>Multiple lines of code</h1>
+    <pre>
+        Codingal
+        is
+        an
+        online 
+        coding platform
+        to learn how to code
+    </pre>
+    <mark>Codingal</mark><br>
+    <code>Codingal</code><br>
+    <h1>KEYBOARD inputs</h1>
+    <kbd>Ctrl + p stands printing the current page</kbd>
+    <input type="color">
+    </body>
+</HTML>
