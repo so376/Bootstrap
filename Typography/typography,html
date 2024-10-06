@@ -10,22 +10,23 @@
     </HEAD>
     <body>
     <H1 class="DISPLAY-4">Typrogaphy in htmk</H1>
-    <h1>Abbrevation</h1>
-    <p>Codingal is an online class that teaches you how to code and it is fun</p>
-    <p><abbr title="Codingal"></abbr>cdg</p>
+    <h1>BRACELETS</h1>
+    <p>Bracelets are really apart of who i am and give personality to me and show who i am</p>
+    <p><abbr title="Bracelets">brc</abbr> are nice</p>
     <h1>Block quote</h1>
-    <blockquote class="blockquote"></blockquote>
-    <h1>Multiple lines of code</h1>
+    <blockquote class="blockquote">
+    <P class="MB-0">Always were braclets those little designs can make you shine</P>
+    </blockquote>
+    <h1>Multiple line</h1>
     <pre>
-        Codingal
-        is
-        an
-        online 
-        coding platform
-        to learn how to code
+        Bracelets
+        are 
+        always
+        in 
+        style
     </pre>
-    <mark>Codingal</mark><br>
-    <code>Codingal</code><br>
+    <mark>bracelets</mark><br>
+    <code>bracelets</code><br>
     <h1>KEYBOARD inputs</h1>
     <kbd>Ctrl + p stands printing the current page</kbd>
     <input type="color">
