@@ -1,0 +1,40 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Bootstap utilities</title>
+        <link rel="stylesheet" href=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+</script>
+    </head>
+    <body>
+        <div class="container">
+            <h2>Carousel container</h2>
+            <div id="my carousel" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#mycarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#mycarousel" data-slide-to="1" ></li>
+                <li data-target="#mycarousel" data-slide-to="2" ></li>
+            </ol>
+            <div class="carousel-inner"></div>
+            <div class="item active">
+                <img src="beauty.jpeg" alt="Los angles" style="width: 280px;">
+            </div>
+            <div class="item"></div>
+                <img src="draw it up.jpeg" alt="London" style="width: 280px;">
+            </div>
+            <div class="item "></div>
+            <img src="lol.jpeg" alt="india" style="width: 280px;">
+            </div>
+            <a class="left carousel-control" href="#mycaurosel" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-right chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#mycaurosel" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                            <span class="sr-only">next</span>
+            </a>
+        </div>
+        </body>
+    </html>
